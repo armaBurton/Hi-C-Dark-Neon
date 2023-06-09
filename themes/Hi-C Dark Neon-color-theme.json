@@ -1833,7 +1833,7 @@
 	  ],
 	  "colors": {
 		"foreground": "#00ff00",
-		"focusBorder": "#00ff00",
+		"focusBorder": "#00ff0000",
 		"selection.background": "#ff00ff",
 		"scrollbar.shadow": "#00ff0080",
 		"activityBar.foreground": "#00ff00",
@@ -1911,6 +1911,7 @@
 		"editorCursor.foreground": "#00ff00",
 		"editorCursor.background": "#130013",
 		"editor.selectionBackground": "#0000ff80",
+		"editor.selectionForeground": "#00ff00",
 		"editor.inactiveSelectionBackground": "#80000080",
 		"editorWhitespace.foreground": "#ffa50080",
 		"editor.selectionHighlightBackground": "#00000000",
