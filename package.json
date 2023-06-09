@@ -1,0 +1,21 @@
+{
+  "name": "hi-c-dark-neon",
+  "displayName": "Hi-C Dark Neon",
+  "description": "High-contrast brightly-colored dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hi-C Dark Neon",
+        "uiTheme": "hc-black",
+        "path": "./themes/Hi-C Dark Neon-color-theme.json"
+      }
+    ]
+  }
+}
