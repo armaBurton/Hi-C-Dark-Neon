@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "hi-c-dark-neon" extension will be documented in this file.
+## [1.0.1] - 2025-05-26
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Changed
 
-## [Unreleased]
+- Changes made to improve cursor visibility when highlighting bracket matches
+- "editorBracketMatch.background": "#00620000" -> "#8B008B"
+- "editorBracketMatch.border": "#ffff00" -> "#8B008B"
 
-- Initial release
+## [1.0.0] 2023-06-09
+
+### Added
+
+- Initial release to the VS Code Marketplace
