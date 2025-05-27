@@ -4,6 +4,7 @@
   "description": "High-contrast brightly-colored dark theme",
   "publisher": "EasyTurbo",
   "version": "1.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -22,6 +23,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/armaBurton/Hi-C-Dark-Neon.git"
-  },
-  "license": "MIT"
+  }
 }
