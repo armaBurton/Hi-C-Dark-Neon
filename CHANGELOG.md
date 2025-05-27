@@ -2,6 +2,10 @@
 
 ## [1.0.1] - 2025-05-26
 
+### Added
+
+- [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ### Changed
 
 - Changes made to improve cursor visibility when highlighting bracket matches
